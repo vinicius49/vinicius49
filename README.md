@@ -1,14 +1,14 @@
--## Bem vindo ao meu perfil! 👋 
+Bem vindo ao meu perfil! 👋 
 
-se apresentar
+Olá! me chamo Vinicius tenho 17 anos e estudo na escola João Jorge Marmorato Prof
 
-o que está fazendo
+Estou fazendo um projeto no github
 
-para que criou o github
+Estou usando o github para aprender a programar
 
-contato
+(16)997851704) - 34155356
 
-<!---
+
 vinicius49/vinicius49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
